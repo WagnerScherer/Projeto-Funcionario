@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/02 21:12:32.000.084,=C:\Users\scher\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 21:15:28.000.334,=C:\Users\scher\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/02 21:18:57.000.166,C:\Users\scher\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UFormMain.dfm</Transaction>
+    <Transaction>2023/03/02 21:18:57.000.166,C:\Users\scher\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UFormMain.pas</Transaction>
+    <Transaction>2023/03/02 21:19:09.000.651,C:\Users\scher\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UDmDados.dfm</Transaction>
+    <Transaction>2023/03/02 21:19:09.000.651,C:\Users\scher\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UDmDados.pas</Transaction>
+    <Transaction>2023/03/02 21:19:32.000.158,C:\Users\scher\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Funcionarios.dproj</Transaction>
+    <Transaction>2023/03/02 21:58:43.000.351,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 21:59:58.000.350,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Classes\UBiblioteca.pas</Transaction>
+    <Transaction>2023/03/02 22:54:28.000.928,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 22:57:30.000.409,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UFuncionarios.pas</Transaction>
+    <Transaction>2023/03/02 22:57:30.000.409,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UFuncionarios.dfm</Transaction>
+    <Transaction>2023/03/04 12:09:16.000.039,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 12:19:35.000.094,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 12:20:40.000.536,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UConfigBanco.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 12:20:40.000.536,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UConfigBanco.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.dfm</Transaction>
+    <Transaction>2023/03/04 18:59:02.000.674,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:02:37.000.586,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UBairros.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:02:37.000.586,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UBairros.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.dfm</Transaction>
+    <Transaction>2023/03/04 19:10:55.000.459,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:12:49.000.042,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UCidades.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.dfm</Transaction>
+    <Transaction>2023/03/04 19:12:49.000.042,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UCidades.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:16:59.000.879,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:17:30.000.597,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UEstados.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:17:30.000.597,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UEstados.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.dfm</Transaction>
+    <Transaction>2023/03/04 20:56:31.040,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UFuncionarios.pas=</Transaction>
+    <Transaction>2023/03/04 20:59:07.338,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 21:00:11.892,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UCad_Funcionarios.pas=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 21:00:11.892,C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Forms\UCad_Funcionarios.dfm=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.dfm</Transaction>
+    <Transaction>2023/03/04 23:14:37.410,=C:\Users\scher\Documents\PROJETOS DELPHI\PROJETO FUNCIONARIO\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
